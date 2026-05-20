@@ -1,0 +1,19 @@
+# Core data science
+pandas>=1.5
+numpy>=1.23
+scipy>=1.9
+matplotlib>=3.6
+seaborn>=0.12
+
+# Machine learning
+scikit-learn>=1.2
+xgboost>=1.7
+imbalanced-learn>=0.10   # SMOTETomek
+
+# Clustering extras
+scikit-fuzzy>=0.4        # Fuzzy C-Means
+yellowbrick>=1.5         # Elbow / Silhouette visualisers (optional but recommended)
+
+# Jupyter (optional, for running the notebook)
+jupyterlab>=3.0
+ipython>=8.0
